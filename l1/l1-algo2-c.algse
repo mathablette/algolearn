@@ -1,0 +1,11 @@
+// variable x
+var x = 3;
+
+// variable y
+var y = 4;
+
+// variable z
+var z = x + y;
+
+// affichage
+algo.outputVar(z);

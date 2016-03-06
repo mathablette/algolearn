@@ -1,0 +1,9 @@
+// déclaration de la variable "v1" puis affectation de cette variable
+var v1;
+v1 = "La variable v1";
+algo.outputVar(v1);
+
+// déclaration de la variable "v2" avec son affectation
+var v2 = 3;
+algo.outputVar(v2);
+

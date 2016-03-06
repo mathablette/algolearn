@@ -1,0 +1,13 @@
+// déclaration et affectation des variables x et n
+var x = 9.7;
+var n = 9;
+
+// on soustrait à x
+x = x - parseFloat("0.2");
+
+// on ajoute à n
+n = n + parseInt("2");
+
+// affichage
+algo.outputVar(x);
+algo.outputVar(n);

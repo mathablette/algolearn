@@ -1,0 +1,10 @@
+// déclaration et affectation de la variable m
+
+
+// opérations sur m
+m ++;
+m /= 2;
+m += 9;
+
+// affichage
+algo.outputVar(m);

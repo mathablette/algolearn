@@ -1,0 +1,12 @@
+// le nom de variable ne peut pas être "var"
+var var_ = 3;
+
+// le nom des variables ne peut pas commencer par des chiffres
+var v3 = 8;
+
+// pour une variable de type "chaîne de caractère", la valeur doit être placé entre guillemets
+var text1 = "un texte";
+
+// affichage
+algo.outputVar(var_);
+algo.outputVar(text1);

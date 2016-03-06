@@ -1,0 +1,5 @@
+var var = 3;
+var 3v = 8;
+var text1 = "un texte;
+algo.outputVar(var_);
+algo.outputVar(text1);

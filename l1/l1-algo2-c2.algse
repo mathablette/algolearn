@@ -1,0 +1,10 @@
+// déclaration des variables
+var x,y,z;
+
+// affectation des variables
+x = 3;
+y = 4;
+z = x + y;
+
+// affichage
+algo.outputVar(z);
